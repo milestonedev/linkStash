@@ -1,0 +1,2 @@
+# linkStash
+simple bookmark app
